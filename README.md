@@ -1,3 +1,3 @@
 # Side-Scroller
 
-A side scrolling game in OpenGL. Download Executable.zip to run the demo.
+A side scrolling game in C++ with OpenGL. Download Executable.zip to run the demo.
