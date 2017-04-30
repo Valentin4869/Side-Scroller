@@ -1,6 +1,6 @@
 # Side-Scroller
 
-A side scrolling game in C++ with OpenGL. Download Executable.zip to run the demo.
+A side scrolling game + a level editor in C++ with OpenGL. Download Executable.zip to run the demo.
 
 Screenshots from the game:
 
